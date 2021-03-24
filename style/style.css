@@ -1,0 +1,58 @@
+img {
+    height: 100px ;
+    width:  100px;
+}
+
+#img0 {
+    position: relative;
+    top: 200px;
+    left: 200px;
+}
+#img1 {
+ position: relative;
+ top: 500px;
+ left: 70px;
+}
+
+#img2 {
+    position: relative;
+    top: 250px;
+    right: 25px;
+}
+
+#img3 {
+    position: relative;
+    top:  600px;
+}
+
+#img4 {
+    position: relative;
+    top: 400px;
+    left: 120px;
+}
+
+#img5 {
+    position: relative;
+     left: 600px;
+}
+
+#img6 {
+    position: relative;
+    top: 250px;
+    left: 50px;
+}
+#img7 {
+    position: relative;
+    left: 500px;
+}
+#img8 {
+    position: relative;
+    left: 400px;
+}
+
+h1 {
+    position: relative;
+    bottom: 100px;
+}
+
+
